@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**icecream2015p/icecream2015p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## こんにちは🙌
+プロフィールを見てくれてありがとうございます。
+### すごいと思ってる人
+* [Jcw87様](https://github.com/Jcw87)
+* [Stefan Weil様](https://github.com/stweil)
+* [Dan Hersam様](https://github.com/jaden)
+### やってること
+* TurboWarp(Scratch)
+* Unity
+* [Minecraft](https://www.xbox.com/ja-JP/play/user/EightRock165352)
+* Geometry Dash
