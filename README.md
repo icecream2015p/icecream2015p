@@ -1,5 +1,5 @@
 ## こんにちは🙌
-プロフィールを見てくれてありがとうございます。
+プロフィールを見てくれてありがとう!
 ### すごいと思ってる人
 * [Jcw87様](https://github.com/Jcw87)
 * [Stefan Weil様](https://github.com/stweil)
